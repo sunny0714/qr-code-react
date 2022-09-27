@@ -1,0 +1,1 @@
+## How to Integrate QR Code for Authentication Across Web & Mobile Applications in Nodejs
